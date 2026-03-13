@@ -7,7 +7,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kundan-satkar/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kundansatkar0@gmail.com)
-[![Location](https://img.shields.io/badge/Buffalo%2C%20NY-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Buffalo,NY)
 
 </div>
 
@@ -86,7 +85,7 @@ What sets me apart: I don't just model data — I translate it. I partner with c
 
 ## Currently
 
-- 📍 **Buffalo, NY** — Open to Data Scientist / ML Engineer roles (2025)
+- 📍 Open to Data Scientist / ML Engineer roles (2025)
 - 🎓 M.S. Data Science @ UB — graduating Dec 2025
 - 🔍 Exploring: LLM-powered analytics agents, production ML systems, real-time pipelines
 
