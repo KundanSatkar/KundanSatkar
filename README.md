@@ -16,7 +16,7 @@
 
 I'm a Data Scientist with **2+ years of production experience** building ML systems that move real business metrics — not just notebook experiments. I've shipped churn prediction models, demand forecasting systems, and automated analytics dashboards used by executive teams.
 
-Currently finishing my **M.S. in Data Science at University at Buffalo** (Dec 2025), where I've worked on everything from distributed computing on 8M+ records to multi-agent AI architectures.
+**M.S. in Data Science at University at Buffalo** (Dec 2025), where I've worked on everything from distributed computing on 8M+ records to multi-agent AI architectures.
 
 What sets me apart: I don't just model data — I translate it. I partner with cross-functional stakeholders to make sure insights actually reach decisions.
 
@@ -86,7 +86,7 @@ What sets me apart: I don't just model data — I translate it. I partner with c
 ## Currently
 
 - 📍 Open to Data Scientist / ML Engineer roles (2025)
-- 🎓 M.S. Data Science @ UB — graduating Dec 2025
+- 🎓  M.S. Data Science @ University at Buffalo — Graduated Dec 2025
 - 🔍 Exploring: LLM-powered analytics agents, production ML systems, real-time pipelines
 
 ---
